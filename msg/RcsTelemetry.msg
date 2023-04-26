@@ -1,0 +1,5 @@
+geometry_msgs/Pose currentcoordinate
+geometry_msgs/Pose nextwaypoint
+int8 robotstatus
+uint8 batterylevel
+sensor_msgs/Image img

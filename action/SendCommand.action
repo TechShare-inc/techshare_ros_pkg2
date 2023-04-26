@@ -1,0 +1,12 @@
+#Define the goal
+string    command
+int8      duration
+string    result
+string    to 
+string    param
+---
+# Define the result
+bool done
+---
+# Define a feedback message
+float32 rate
