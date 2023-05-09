@@ -21,6 +21,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/RcsTelemetry.msg"
   "srv/FulanghuaAction.srv"
   "srv/FulanghuaPose.srv"
+  "srv/Empty.srv"
   "srv/TargetId.srv"
   "action/CameraPkg.action"
   "action/SendCommand.action"
