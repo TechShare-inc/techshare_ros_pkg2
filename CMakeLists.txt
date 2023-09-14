@@ -27,6 +27,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "action/Empty.action"
   "action/SendCommand.action"
   "action/SpecialMove.action"
+  "action/TriggerGoalSequence.action"
   DEPENDENCIES std_msgs geometry_msgs sensor_msgs
 )
 
