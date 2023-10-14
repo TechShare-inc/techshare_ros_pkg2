@@ -4,5 +4,6 @@ int8 robotstatus
 uint8 batterylevel
 sensor_msgs/Image img
 string axis
-float64 linear_vel
+float64 linear_vel_x
+float64 linear_vel_y
 float64 angular_vel
