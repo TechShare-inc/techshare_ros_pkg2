@@ -1,6 +1,6 @@
 #Define the goal
 string    command
-int8      duration
+int16      duration
 string    result
 string    to 
 string    param
