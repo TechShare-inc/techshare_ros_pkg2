@@ -1,0 +1,4 @@
+string message
+bool error
+---
+int8 res
