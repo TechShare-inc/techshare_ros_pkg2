@@ -7,3 +7,4 @@ string axis
 float64 linear_vel_x
 float64 linear_vel_y
 float64 angular_vel
+geometry_msgs/Point[] occupied_cells
