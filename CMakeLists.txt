@@ -18,6 +18,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Pose.msg"
   "msg/Waypoint.msg"
   "msg/WaypointArray.msg"
+  "msg/PointArray.msg"
   "msg/RcsTelemetry.msg"
   "srv/FulanghuaAction.srv"
   "srv/SendMsg.srv"
