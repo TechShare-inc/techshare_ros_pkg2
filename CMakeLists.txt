@@ -26,7 +26,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/Empty.srv"
   "srv/TargetId.srv"
   "action/CameraPkg.action"
-  "action/Empty.action"
+  "action/Charge.action"
   "action/SendCommand.action"
   "action/SpecialMove.action"
   "action/TriggerGoalSequence.action"
