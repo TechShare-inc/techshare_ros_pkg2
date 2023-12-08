@@ -16,6 +16,8 @@ find_package(sensor_msgs REQUIRED)
 # find_package(<dependency> REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Pose.msg"
+  "msg/PoseStampedWithDrivingMode.msg"
+  "msg/PathWithDrivingMode.msg"
   "msg/Waypoint.msg"
   "msg/WaypointArray.msg"
   "msg/PointArray.msg"
