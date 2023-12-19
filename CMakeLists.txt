@@ -27,6 +27,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/FulanghuaPose.srv"
   "srv/Empty.srv"
   "srv/TargetId.srv"
+  "srv/TextToSpeech.srv"
   "action/CameraPkg.action"
   "action/Charge.action"
   "action/IntoDoghouse.action"

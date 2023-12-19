@@ -1,0 +1,5 @@
+# TextToSpeech.srv
+string text
+bool is_japanese
+---
+bool success  # indicate if the speech was successfully spoken
