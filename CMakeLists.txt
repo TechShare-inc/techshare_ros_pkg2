@@ -23,6 +23,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PointArray.msg"
   "msg/RcsTelemetry.msg"
   "srv/FulanghuaAction.srv"
+  "srv/GetPCD.srv"
   "srv/SendMsg.srv"
   "srv/FulanghuaPose.srv"
   "srv/Empty.srv"
