@@ -1,0 +1,7 @@
+# Request part
+float32 leaf_size
+---
+# Response part
+bool success
+string message
+sensor_msgs/PointCloud2 cloud
