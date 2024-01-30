@@ -20,6 +20,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PathWithDrivingMode.msg"
   "msg/Waypoint.msg"
   "msg/WaypointArray.msg"
+  "msg/ControllerMsg.msg"
   "msg/PointArray.msg"
   "msg/RcsTelemetry.msg"
   "srv/FulanghuaAction.srv"
