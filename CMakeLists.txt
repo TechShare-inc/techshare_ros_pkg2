@@ -26,6 +26,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/FulanghuaAction.srv"
   "srv/GetPCD.srv"
   "srv/SendMsg.srv"
+  "srv/ChangeDriveMode.srv"
   "srv/FulanghuaPose.srv"
   "srv/Empty.srv"
   "srv/TargetId.srv"
