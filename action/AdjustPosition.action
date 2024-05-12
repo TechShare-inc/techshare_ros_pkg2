@@ -1,0 +1,9 @@
+# MoveToPose.action
+# Goal definition
+geometry_msgs/PoseStamped target_pose
+---
+# Result definition
+bool success
+---
+# Feedback definition
+string current_status
