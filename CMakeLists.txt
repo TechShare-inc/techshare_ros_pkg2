@@ -39,6 +39,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "action/SpecialMove.action"
   "action/TriggerGoalSequence.action"
   "action/AdjustPosition.action"
+  "action/Relocalize.action"
   DEPENDENCIES std_msgs geometry_msgs sensor_msgs
 )
 
