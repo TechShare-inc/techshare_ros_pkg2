@@ -1,0 +1,7 @@
+# Relocalize.action
+geometry_msgs/PoseStamped goal_pose
+---
+bool success
+string message
+---
+bool feedback
