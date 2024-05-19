@@ -23,6 +23,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ControllerMsg.msg"
   "msg/PointArray.msg"
   "msg/RcsTelemetry.msg"
+  "msg/CostMap.msg"
   "srv/FulanghuaAction.srv"
   "srv/GetPCD.srv"
   "srv/SendMsg.srv"
@@ -40,6 +41,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "action/TriggerGoalSequence.action"
   "action/AdjustPosition.action"
   "action/Relocalize.action"
+  
   DEPENDENCIES std_msgs geometry_msgs sensor_msgs
 )
 
