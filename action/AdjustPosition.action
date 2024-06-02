@@ -2,6 +2,7 @@
 # Goal definition
 geometry_msgs/PoseStamped target_pose
 int8 adjustment_type
+float64 duration
 ---
 # Result definition
 bool success
