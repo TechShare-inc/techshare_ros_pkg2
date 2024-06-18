@@ -11,6 +11,7 @@ find_package(rosidl_default_generators REQUIRED)
 find_package(std_msgs REQUIRED)
 find_package(geometry_msgs REQUIRED)
 find_package(sensor_msgs REQUIRED)
+find_package(nav_msgs REQUIRED)
 # uncomment the following section in order to fill in
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)
@@ -44,7 +45,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "action/AdjustPosition.action"
   "action/Relocalize.action"
   
-  DEPENDENCIES std_msgs geometry_msgs sensor_msgs
+  DEPENDENCIES std_msgs geometry_msgs sensor_msgs nav_msgs
 )
 
 
