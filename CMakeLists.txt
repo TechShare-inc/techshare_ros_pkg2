@@ -21,6 +21,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Waypoint.msg"
   "msg/WaypointArray.msg"
   "msg/ControllerMsg.msg"
+  "msg/CloudInfo.msg"
+  "msg/ScoreInfo.msg"
   "msg/PointArray.msg"
   "msg/RcsTelemetry.msg"
   "msg/CostMap.msg"
