@@ -9,7 +9,7 @@ float32[] point_range # point range
 
 bool imu_available
 bool odom_available
-
+bool keyframe_available
 # Attitude for LOAM initialization
 float32 imu_roll_init
 float32 imu_pitch_init
