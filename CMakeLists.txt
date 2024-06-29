@@ -33,6 +33,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/ChangeDriveMode.srv"
   "srv/FulanghuaPose.srv"
   "srv/Empty.srv"
+  "srv/Params.srv"
   "srv/TargetId.srv"
   "srv/TextToSpeech.srv"
   "action/CameraPkg.action"
