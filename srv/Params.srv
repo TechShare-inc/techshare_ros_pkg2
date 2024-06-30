@@ -1,5 +1,10 @@
 # StringService.srv
 string map_name
+float64 maximum_height_for_conversion 
+float64 minimum_height_for_conversion
+float64 leaf_size_for_conversion
+float64 grouping_threshold_for_conversion
+float64 voxel_size_for_conversion
 ---
 string message
 bool success
