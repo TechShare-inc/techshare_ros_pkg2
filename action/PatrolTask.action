@@ -1,5 +1,7 @@
 #goal definition
 string task_name
+uint32 param_count
+float32[] params
 ---
 #result definition
 bool success
