@@ -33,6 +33,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/SendMsg.srv"
   "srv/SendString.srv"
   "srv/ChangeDriveMode.srv"
+  "srv/ChangeFloor.srv"
   "srv/FulanghuaPose.srv"
   "srv/Empty.srv"
   "srv/Params.srv"
