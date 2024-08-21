@@ -45,6 +45,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "action/TriggerGoalSequence.action"
   "action/AdjustPosition.action"
   "action/Relocalize.action"
+  "action/PanTiltZoom.action"
   
   DEPENDENCIES std_msgs geometry_msgs sensor_msgs nav_msgs
 )
