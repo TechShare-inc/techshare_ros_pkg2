@@ -1,1 +1,0 @@
-uint8 brightness # 0(off) ~ 100(brightest)

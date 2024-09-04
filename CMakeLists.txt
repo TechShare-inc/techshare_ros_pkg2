@@ -29,7 +29,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/CostMap.msg"
   "msg/FloorInfo.msg"
   "msg/HalnaError.msg"
-  "msg/FrontLightControl.msg"
+  "srv/FrontLightControl.srv"
   "srv/FulanghuaAction.srv"
   "srv/GetPCD.srv"
   "srv/SendMsg.srv"
