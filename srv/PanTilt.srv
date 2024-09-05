@@ -1,0 +1,7 @@
+string direction
+int8 speed
+int8 degrees
+---
+# current absolute position 
+float32 yaw
+float32 pitch
