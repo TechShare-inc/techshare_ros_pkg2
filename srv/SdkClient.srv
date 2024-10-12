@@ -1,0 +1,4 @@
+string client_name
+float32[10] params
+---
+int8 res

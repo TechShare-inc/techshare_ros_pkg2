@@ -44,6 +44,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/PanTilt.srv"
   "srv/Zoom.srv"
   "srv/DisplayMode.srv"
+  "srv/SdkClient.srv"
   "action/CameraPkg.action"
   "action/Charge.action"
   "action/IntoDoghouse.action"
