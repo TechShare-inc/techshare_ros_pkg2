@@ -20,6 +20,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PoseStampedWithDrivingMode.msg"
   "msg/PathWithDrivingMode.msg"
   "msg/Waypoint.msg"
+  "msg/PtzInfo.msg"
   "msg/WaypointArray.msg"
   "msg/ControllerMsg.msg"
   "msg/CloudInfo.msg"
