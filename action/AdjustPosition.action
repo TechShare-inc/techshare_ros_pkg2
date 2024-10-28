@@ -3,6 +3,7 @@
 geometry_msgs/PoseStamped target_pose
 int8 adjustment_type
 float64 duration
+nav_msgs/Path path
 ---
 # Result definition
 bool success
