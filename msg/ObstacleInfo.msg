@@ -1,0 +1,10 @@
+int8 right_front_short
+int8 head_short
+int8 left_front_short
+int8 left_front_long
+int8 head_long
+int8 right_front_long
+int8 right_front_very_long
+int8 head_very_long
+int8 left_front_very_long
+int8 head_raw
