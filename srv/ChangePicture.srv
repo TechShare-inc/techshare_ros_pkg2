@@ -1,0 +1,4 @@
+---
+bool success
+string message
+int8 current_source # 0: front_camera,  1: ptz_color,  2: ptz_thermal
