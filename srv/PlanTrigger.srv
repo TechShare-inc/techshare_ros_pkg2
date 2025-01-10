@@ -1,0 +1,9 @@
+# PlanTrigger.srv
+
+# Request
+string plan_name
+
+---
+# Response
+bool success
+string message
