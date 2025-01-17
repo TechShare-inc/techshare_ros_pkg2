@@ -1,6 +1,7 @@
 # PlanTrigger.srv
 
 # Request
+string map_name
 string plan_name
 
 ---
