@@ -1,0 +1,6 @@
+float32 max_temperature
+int16 max_x
+int16 max_y
+float32 min_temperature
+int16 min_x
+int16 min_y
