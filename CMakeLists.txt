@@ -43,6 +43,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/FulanghuaPose.srv"
   "srv/Empty.srv"
   "srv/Params.srv"
+  "srv/PlanTrigger.srv"
   "srv/TargetId.srv"
   "srv/TextToSpeech.srv"
   "srv/PanTilt.srv"

@@ -1,0 +1,10 @@
+# PlanTrigger.srv
+
+# Request
+string map_name
+string plan_name
+
+---
+# Response
+bool success
+string message
