@@ -33,6 +33,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/HalnaError.msg"
   "msg/LEDControl.msg"
   "msg/EmergencyButton.msg"
+  "msg/ThermalInfo.msg"
   "srv/FrontLightControl.srv"
   "srv/FulanghuaAction.srv"
   "srv/GetPCD.srv"
