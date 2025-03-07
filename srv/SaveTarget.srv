@@ -1,0 +1,6 @@
+int32 current_building
+int32 current_floor
+int32 current_node
+---
+bool success
+string message

@@ -55,6 +55,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/TemperatureBox.srv"
   "srv/TemperatureFullImage.srv"
   "srv/ChangePicture.srv"
+  "srv/CalculateTarget.srv"
+  "srv/SaveTarget.srv"
   "action/CameraPkg.action"
   "action/Charge.action"
   "action/IntoDoghouse.action"
