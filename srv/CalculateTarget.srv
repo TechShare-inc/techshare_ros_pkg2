@@ -1,0 +1,10 @@
+int32 current_building
+int32 current_floor
+int32 current_node
+---
+bool success
+string message
+float64 roll
+float64 pitch
+float64 yaw
+float64 zoom_required
