@@ -31,6 +31,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/CostMap.msg"
   "msg/FloorInfo.msg"
   "msg/HalnaError.msg"
+  "msg/HalnaState.msg"
   "msg/LEDControl.msg"
   "msg/EmergencyButton.msg"
   "msg/ThermalInfo.msg"
