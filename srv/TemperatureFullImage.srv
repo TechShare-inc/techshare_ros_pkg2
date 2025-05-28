@@ -1,3 +1,5 @@
+int16 max_temperature_threshold
+int16 min_temperature_threshold
 ---
 float32 max_temperature
 int16 max_x
