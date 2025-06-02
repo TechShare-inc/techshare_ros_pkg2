@@ -62,6 +62,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "action/Charge.action"
   "action/IntoDoghouse.action"
   "action/PatrolTask.action"
+  "action/PatrolTaskV2.action"
   "action/SendCommand.action"
   "action/SpecialMove.action"
   "action/TriggerGoalSequence.action"

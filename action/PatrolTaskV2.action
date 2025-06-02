@@ -1,0 +1,16 @@
+#goal definition
+
+uint8 PRODUCT = 0
+uint8 DEBUG = 1
+
+string task_name
+uint8 mode
+float32 global_timeout
+string yaml_text
+
+---
+#result definition
+bool success
+---
+#feedback
+string log
