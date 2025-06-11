@@ -4,3 +4,9 @@ int16 max_y
 float32 min_temperature
 int16 min_x
 int16 min_y
+int16 detection_area_start_x
+int16 detection_area_start_y
+int16 detection_area_end_x
+int16 detection_area_end_y
+int16 max_temperature_threshold
+int16 min_temperature_threshold
