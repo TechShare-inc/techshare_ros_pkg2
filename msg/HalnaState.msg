@@ -10,7 +10,7 @@ uint8 STATE_NEUTRAL = 0
 uint8 STATE_MANUAL = 1
 uint8 STATE_AUTONOMOUS = 2
 uint8 operation_state
-
+uint8 debug_status  # 0: Normal mode, 1: Debug mode
 # 障害物 or エラーステータス
 uint8 STATUS_OK = 0
 uint8 system_status
