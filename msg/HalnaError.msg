@@ -8,6 +8,7 @@ uint8 ERROR_MINOR = 11
 uint8 ERROR_MAJOR = 12
 uint8 ERROR_CRITICAL = 13
 uint8 ERROR_FATAL = 14
+uint8 NOTIFICATION = 15
 
 builtin_interfaces/Time time_stamp
 string node_name
