@@ -57,6 +57,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/TemperatureFullImage.srv"
   "srv/ChangePicture.srv"
   "srv/CalculateTarget.srv"
+  "srv/CalculateTargetv2.srv"
   "srv/SaveTarget.srv"
   "action/CameraPkg.action"
   "action/Charge.action"
